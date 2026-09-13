@@ -11,7 +11,10 @@
     }
   },
   "bin": [
-    "openrouter.exe",
+    [
+      "openrouter.exe",
+      "openrouter-model-tracker"
+    ],
     [
       "openrouter.exe",
       "omt"
