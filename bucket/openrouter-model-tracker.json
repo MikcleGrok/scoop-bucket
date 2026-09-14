@@ -1,13 +1,13 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "version": "1.20.1",
+  "version": "1.21.1",
   "description": "Compare AI models on OpenRouter by quality and price.",
   "homepage": "https://github.com/MikcleGrok/openrouter-model-tracker",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/MikcleGrok/openrouter-model-tracker/releases/download/v1.20.1/openrouter-1.20.1-windows-amd64.zip",
-      "hash": "ac03a4ae1066ec688839e7603987234ac490446cd27b01ec6cd8d087a73172ea"
+      "url": "https://github.com/MikcleGrok/openrouter-model-tracker/releases/download/v1.21.1/openrouter-1.21.1-windows-amd64.zip",
+      "hash": "dbe5dce2f41e66420e2d1b7059b02097f6f8135d2b26d1846a9291d46fbf211b"
     }
   },
   "bin": [
